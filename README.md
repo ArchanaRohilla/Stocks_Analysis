@@ -15,6 +15,7 @@ Excel, VBA
 - From the stock’s analysis of the year 2018, it is found that except “ENPH” and “RUN” all other stocks are not performing well.
 
 
+
 ![alt text](images/allStocks_2018.png)
 
 

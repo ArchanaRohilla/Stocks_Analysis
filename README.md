@@ -15,13 +15,13 @@ Excel, VBA
 - From the stock’s analysis of the year 2018, it is found that except “ENPH” and “RUN” all other stocks are not performing well.
 
 
-![alt text]()
+![alt text](images/allStocks_2018.png)
 
 
 - From the stock’s analysis of the year 2017, it is found that except “TERP” all other stocks are performing well. The stocks of “DQ”, “ENPH”, “FSLR” and “SEDG” are even having return more than 100 percentage.
 
 
-![alt text]()
+![alt text](images/allStocks_2017.png)
 
 
 - By using this code, we can find the total volume and the yearly return for any given year if we have the necessary data.

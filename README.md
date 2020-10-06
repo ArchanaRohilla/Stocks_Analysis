@@ -3,14 +3,14 @@ Analysis of “green” stocks by comparing values for the years of 2017 and 2018.
 
 ## Project Overview
 In this project, analysis of “green” stocks has been conducted by comparing values for the years of 2017 and 2018. By creating a macro, the process is automated and scalable.
-With the press of a button, the ticker, total volume, starting price and ending price are displayed and evaluated for profitability.
+With the press of a button; the ticker, total volume, starting price and ending price are displayed and evaluated for profitability.
 
 ## Tools
 Excel, VBA 
 
 ## Summary
 
-- Formatted the output sheet on the “All Stocks Analysis” worksheet. The macro name is “AllStocksAnalysisRefactor”.
+- Refer to the “All Stocks Analysis” worksheet. The respective macro name is “AllStocksAnalysisRefactor”.
 
 - From the stock’s analysis of the year 2018, it is found that except “ENPH” and “RUN” all other stocks are not performing well.
 
